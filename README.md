@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 做题日记
+20.3.14争取每日更新，但链表现在成了大问题，最基础的都忘干净了，过完这次每日一题的活动按顺序来一题都要吃力
+—————————————————————————————————————————————————————————————————————————————————————————————————
+20.3.15 为什么给自己定这种搞自己的规矩  我坐在电脑前吃着面如是吐槽
 
-You can use the [editor on GitHub](https://github.com/wli806/lotto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 资料 😋
+英雄哪里出来 http://www.cppblog.com/menjitianya <\br>
+WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 日签 😄
 
-### Markdown
+- [x]  2020.3.12
+- [x]  2020.3.13
+- [x]  2020.3.14
+- [x]  2020.3.15
+- [ ]  2020.3.16
+- [ ]  2020.3.17
+- [ ]  2020.3.18
+- [ ]  2020.3.19
+- [ ]  2020.3.20
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 题目记录
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wli806/lotto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| 编号     | 内容              | 日期           | 
+| ------  | :-------- --------| ---------:     |
+| 001     | 两数之和           | 20.3.12       |
+| 169	    | 多数元素           | 20.3.13       |
+| 300	    | 最长上升子序列      | 20.3.14       |	
+| 695	    | 岛屿的最大面积      | 20.3.15       |		
+	
+	
