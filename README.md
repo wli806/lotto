@@ -2,7 +2,7 @@
 20.3.14争取每日更新，但链表现在成了大问题，最基础的都忘干净了，过完这次每日一题的活动按顺序来一题都要吃力
 ----------
 20.3.15 为什么给自己定这种搞自己的规矩  我坐在电脑前吃着面如是吐槽
-
+---------
 ### 资料 😋
 英雄哪里出来 http://www.cppblog.com/menjitianya <br>
 WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom
@@ -24,7 +24,7 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom
 
 | 编号  | 姓名（左） | 年龄（右） | 性别（中） |
 | ----- | :--------  | ---------: | :------:   |
-| 0     | 张三       | 28         | 男         |
+| 001     | 张三       | 28         | 男         |
 | 1     | 李四       | 29         | 男         |
 	
 	
