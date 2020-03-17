@@ -20,7 +20,7 @@ for word in words:
     temp = 0
     for i in word:
         if word.count(i) <= chars.count(i):  #.count() 函数的使用  求该字符的和
-            temp += 1  #+1表示该数位满足
+            temp += 1  #+1表示该数位满足 
         else:
             break #提高速度 不符合就出这个for loop 进行下一个word
     if temp == lens:
