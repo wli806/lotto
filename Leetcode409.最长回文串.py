@@ -16,6 +16,7 @@ import collections
 s = "abccccdd"
 s_cnt = collections.Counter(s)
 center = 0
+
 res = 0
 for char in s_cnt:
     #判断各个字符的词频奇偶
