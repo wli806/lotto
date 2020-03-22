@@ -11,7 +11,9 @@
 ----------
 ### 资料 😋
 英雄哪里出来 http://www.cppblog.com/menjitianya <br>
-WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom
+WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
+什么是公网ip？什么是内网ip？为什么ip地址通常以192.168开头？ https://zhuanlan.zhihu.com/p/72895574
+公网IP 百度百科 https://baike.baidu.com/item/%E5%85%AC%E7%BD%91IP
 
 ### 日签 😄
 
