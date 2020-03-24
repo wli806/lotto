@@ -13,4 +13,5 @@ i = 0
 while i < len(nums):
     nmax1 , nmax2 = max(nmax1,nmax2+nums[i]) , nmax1
     i +=1
+    
 print(nmax1)
