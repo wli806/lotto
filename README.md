@@ -30,7 +30,7 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 - [x]  2020.3.22
 - [x]  2020.3.23
 - [x]  2020.3.24
-- [ ]  2020.3.25
+- [x]  2020.3.25
 - [ ]  2020.3.26
 - [ ]  2020.3.27
 
@@ -51,3 +51,4 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 | 945    |  使数组唯一的最小增量     | 20.3.22         |
 | 876    |  链表的中间结点     | 20.3.23         |
 | 面试17.16    |  按摩师     | 20.3.24         |
+| 892    |  三锥形体的表面积     | 20.3.25        |
