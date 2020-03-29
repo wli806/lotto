@@ -36,7 +36,7 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 - [x]  2020.3.26
 - [x]  2020.3.27
 - [x]  2020.3.28
-- [ ]  2020.3.29
+- [x]]  2020.3.29
 - [ ]  2020.3.30
 
 ### 题目记录
@@ -60,3 +60,4 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 | 999    |  车的可用捕获量     | 20.3.26        |
 | 917    |  卡牌分组     | 20.3.27        |
 | 820    |  单词的压缩编码     | 20.3.28        |
+| 1162    |  地图分析     | 20.3.29        |
