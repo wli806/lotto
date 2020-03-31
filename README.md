@@ -38,7 +38,7 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 - [x]  2020.3.28
 - [x]  2020.3.29
 - [x]  2020.3.30
-- [ ]  2020.3.31
+- [x]  2020.3.31
 - [ ]  2020.4.1
 - [ ]  2020.4.2
 
@@ -65,3 +65,4 @@ WhereIsHeroFrom的博客 https://blog.csdn.net/whereisherofrom <br>
 | 820    |  单词的压缩编码     | 20.3.28        |
 | 1162    |  地图分析     | 20.3.29        |
 | 面试题62    |  圆圈中最后剩下的数字     | 20.3.30        |
+| 912    |  排序数组     | 20.3.31        |
